@@ -8,7 +8,6 @@ This web project has the following setup:
     	* config/ - config files
     	* views/ - Mustache templates
     	* *.js Project-specific JavaScript files. Defined as require.js modules.
-* tools/ - the build tools to optimize the project.
 * bower.json - bower configuration file
 * bower_components/ - the directory to hold packages managed by bower.
 
