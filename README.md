@@ -15,16 +15,3 @@ To get all dependencies, run:
 	
 	bower install
 
-To optimize, run:
-
-    node tools/r.js -o tools/build.js
-
-That build command creates an optimized version of the project in a
-**www-built** directory. The app.js file will be optimized to include
-all of its dependencies.
-
-For more information on the optimizer:
-http://requirejs.org/docs/optimization.html
-
-For more information on using requirejs:
-http://requirejs.org/docs/api.html
