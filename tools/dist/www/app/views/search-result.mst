@@ -1,6 +1,0 @@
-<li class="searchResult">
-	<img width="{{imgWidth}}" height="{{imgHeight}}"src="{{imgSrc}}">
-	<span class="title">{{title}}</span>
-	<span class="type"> - {{kind}} - </span>
-	<button class="addButton">add to playlist</button>
-</li>

@@ -1,7 +1,0 @@
-<li id="playlistItem-{{id}}"class="playlistItem" draggable="true" style="background-image:url('{{imgSrc}}');">
-	<span class="nowPlaying"><i class="fa fa-chevron-down"></i></span>
-	<a href="javascript:void(0)" class="title">{{title}}</a>
-	<span class="duration"> - {{duration}} - </span>
-	<button class="removeButton"><i class="fa fa-times"></i>
-	</button>
-</li>
