@@ -1,0 +1,25 @@
+{
+  "name": "youtubePlaylist",
+  "description": "",
+  "main": "www/app.js",
+  "authors": [
+    "Luuk Schipperheyn"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "www.luukschipperheyn.nl",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.2.0",
+    "requirejs": "~2.1.22",
+    "mustache.js": "mustache#~2.2.1",
+    "requirejs-plugins": "~1.0.3"
+  }
+}
