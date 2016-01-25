@@ -60,7 +60,7 @@ li.searchResult {
 body {
     margin: 0;
     font-family: sans-serif;
-    background-color: black;
+    background-color: #1a1a1a;
 }
 
 li.searchResult span.type {
